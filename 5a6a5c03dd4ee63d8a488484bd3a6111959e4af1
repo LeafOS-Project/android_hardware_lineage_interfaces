@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f1d4987e_7f9fca9f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000008
+      },
+      "writtenOn": "2023-06-23T16:49:09Z",
+      "side": 1,
+      "message": "Hold until we port Lineage charging control",
+      "revId": "5a6a5c03dd4ee63d8a488484bd3a6111959e4af1",
+      "serverId": "b49086b3-c06c-47ea-b69e-65c8379e1be6"
+    }
+  ]
+}
