@@ -1,0 +1,13 @@
+/*
+ * Copyright (C) 2024 The LineageOS Project
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+package vendor.lineage.fastcharge;
+
+@VintfStability
+interface IFastCharge {
+    boolean isEnabled();
+    boolean setEnabled(boolean enable);
+}
